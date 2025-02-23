@@ -4,7 +4,7 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 
 ### 🚀 About Me  
 - 🏗️ **Building:** Custom Home Assistant automations & Rube Goldberg-style smart home setups.  
-- 🖥️ **Managing:** Systems and networks as part of my **MSP business, offthegridit**.  
+- 🖥️ **Managing:** Systems and networks as part of my **Managed Services business, offthegridit**.  
 - 🧑‍💻 **Scripting:** Linux, macOS, and Windows automation for seamless IT operations.  
 - 🔐 **Exploring:** Cybersecurity best practices, privacy-focused solutions, and self-hosted services.  
 - 📡 **Tinkering With:** WireGuard VPN, IoT devices, and cloud-free automation setups.  
