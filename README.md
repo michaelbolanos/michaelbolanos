@@ -31,7 +31,7 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 
 ### 📫 Connect With Me  
 🔗 **GitHub:** [github.com/michaelbolanos](https://github.com/michaelbolanos)  
-🌍 **Website (Coming Soon)**  
+🌍 **Website (https://offthegridit.com)**  
 
 ---
 
