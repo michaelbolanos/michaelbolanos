@@ -1,6 +1,6 @@
-## 👋 Welcome to my GitHub
+## 👋 Welcome to my GitHub  
 
-I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Automation Enthusiast** with a passion for **automation, scripting, and cybersecurity**. I enjoy working with **Linux, Home Assistant, and Python**, creating solutions that blend **technology and efficiency**.
+I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Automation Enthusiast** with a passion for **automation, scripting, and cybersecurity**. I enjoy working with **Linux, Home Assistant, and Python**, creating solutions that blend **technology and efficiency**.  
 
 ### 🚀 About Me  
 - 🏗️ **Building:** Custom Home Assistant automations & Rube Goldberg-style smart home setups.  
@@ -25,14 +25,16 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white) 
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
 ### 📫 Connect With Me  
 🔗 **GitHub:** [github.com/michaelbolanos](https://github.com/michaelbolanos)  
-🌍 **Website (https://offthegridit.com)**  
+🌍 **Website:** [offthegridit.com](https://offthegridit.com)  
 
----
+---  
 
-🚀 Always learning, always automating -- If you're passionate about **Home Assistant, IT automation, or cybersecurity**, let's connect 🚀
+🚀 Always learning, always automating -- If you're passionate about **Home Assistant, IT automation, or cybersecurity**, let's connect 🚀  
