@@ -22,7 +22,7 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) 
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white) 
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -35,4 +35,4 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 
 ---
 
-🚀 Always learning, always automating! If you're passionate about **Home Assistant, IT automation, or cybersecurity**, let's connect! 🚀
+🚀 Always learning, always automating -- If you're passionate about **Home Assistant, IT automation, or cybersecurity**, let's connect 🚀
