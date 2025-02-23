@@ -7,7 +7,7 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 - 🖥️ **Managing:** Systems and networks as part of my **Managed Services business, offthegridit**.  
 - 🧑‍💻 **Scripting:** Linux, macOS, and Windows automation for seamless IT operations.  
 - 🔐 **Exploring:** Cybersecurity best practices, privacy-focused solutions, and self-hosted services.  
-- 📡 **Tinkering With:** WireGuard VPN, IoT devices, and cloud-free automation setups.  
+- 📡 **Tinkering With:** WireGuard VPN, IoT devices, cloud, and cloud-free automation setups.  
 
 ### ⚡ Projects & Interests  
 - **💡 Smart Home:** Privacy-first automations with **Home Assistant**.  
