@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 Welcome to My GitHub!
 
-<!--
-**michaelbolanos/michaelbolanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Automation Enthusiast** with a passion for **automation, scripting, and cybersecurity**. I enjoy working with **Linux, Home Assistant, and Python**, creating solutions that blend **technology and efficiency**.
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🏗️ **Building:** Custom Home Assistant automations & Rube Goldberg-style smart home setups.  
+- 🖥️ **Managing:** Systems and networks as part of my **MSP business, offthegridit**.  
+- 🧑‍💻 **Scripting:** Linux, macOS, and Windows automation for seamless IT operations.  
+- 🔐 **Exploring:** Cybersecurity best practices, privacy-focused solutions, and self-hosted services.  
+- 📡 **Tinkering With:** WireGuard VPN, IoT devices, and cloud-free automation setups.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Projects & Interests  
+- **💡 Smart Home:** Privacy-first automations with **Home Assistant**.  
+- **🛠️ IT & MSP Tools:** Developing efficient admin scripts for system management.  
+- **📡 Networking:** VPN security & self-hosted services.  
+- **🤖 AI & Automation:** Finding ways to optimize workflows with scripting.  
+
+### 🛠️ Technologies & Tools  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 Connect With Me  
+🔗 **GitHub:** [github.com/michaelbolanos](https://github.com/michaelbolanos)  
+🌍 **Website (Coming Soon)**  
+
+---
+
+🚀 Always learning, always automating! If you're passionate about **Home Assistant, IT automation, or cybersecurity**, let's connect!
