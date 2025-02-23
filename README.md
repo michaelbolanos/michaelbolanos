@@ -31,6 +31,8 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
+<img src="terminal1gif.gif" width="420" alt="Terminal Output">
+
 ### 📫 Connect With Me  
 🔗 **GitHub:** [github.com/michaelbolanos](https://github.com/michaelbolanos)  
 🌍 **Website:** [offthegridit.com](https://offthegridit.com)  
