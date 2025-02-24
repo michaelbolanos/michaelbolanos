@@ -16,7 +16,6 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 - **🤖 AI & Automation:** Finding ways to optimize workflows with scripting.  
 
 ### 📫 Connect With Me  
-🔗 **GitHub:** [github.com/michaelbolanos](https://github.com/michaelbolanos)  
 🌍 **Website:** [offthegridit.com](https://offthegridit.com)  
 
 ---  
