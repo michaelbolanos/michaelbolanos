@@ -48,4 +48,4 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 </p>
 
 
-![Terminal Output](terminal1gif.gif)
+![Terminal Output](Michael-Bolanos-coding.gif)
