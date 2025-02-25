@@ -10,7 +10,7 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 
 ### ⚡ Projects & Interests  
 - **💡 Smart Home:** Privacy-first automations with **Home Assistant**.  
-- **🛠️ IT & MSP Tools:** Developing efficient admin scripts for system management.  
+- **🛠️ IT Sys Admin Tools:** Developing efficient admin scripts for system management.  
 - **📡 Networking:** VPN security & self-hosted services.  
 - **🤖 AI & Automation:** Finding ways to optimize workflows with scripting.  
 
