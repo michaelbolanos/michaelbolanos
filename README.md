@@ -46,3 +46,6 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
+
+![Terminal Output](terminal1gif.gif)
