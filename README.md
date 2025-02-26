@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub  
+## Welcome to my GitHub  
 
 I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Automation Enthusiast** with a passion for **automation, scripting, and cybersecurity**. I enjoy working with **Linux, Home Assistant, and Python**, creating solutions that blend **technology and efficiency**.  
 
