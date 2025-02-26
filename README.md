@@ -14,8 +14,6 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 - **📡 Networking:** VPN security & self-hosted services.  
 - **🤖 AI & Automation:** Finding ways to optimize workflows with scripting.  
 
-### 📫 Connect With Me  
-🌍 **Website:** [offthegridit.com](https://offthegridit.com)  
 
 ---  
 
