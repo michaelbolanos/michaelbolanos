@@ -2,13 +2,13 @@
 
 I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Automation Enthusiast** with a passion for **automation, scripting, and cybersecurity**. I enjoy working with **Linux, Home Assistant, and Python**, creating solutions that blend **technology and efficiency**.  
 
-### 🚀 About Me  
+### About Me  
 - 🖥️ **Managing:** Systems and networks.  
 - 🧑‍💻 **Scripting:** Linux, macOS, and Windows automation for seamless IT operations.  
 - 🔐 **Exploring:** Cybersecurity best practices, privacy-focused solutions, and self-hosted services.  
 - 📡 **Tinkering With:** WireGuard VPN, IoT devices, cloud, and cloud-free automation setups.  
 
-### ⚡ Projects & Interests  
+### Projects & Interests  
 - **💡 Smart Home:** Privacy-first automations with **Home Assistant**.  
 - **🛠️ IT Sys Admin Tools:** Developing efficient admin scripts for system management.  
 - **📡 Networking:** VPN security & self-hosted services.  
