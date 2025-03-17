@@ -43,4 +43,4 @@ Always learning, always securing, always automating — If you're passionate abo
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
-![Terminal Output](/images/Michael-Bolanos-coding.gif)
+# ![Terminal Output](/images/Michael-Bolanos-coding.gif)
