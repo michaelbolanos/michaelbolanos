@@ -4,7 +4,7 @@ I'm **Michael Bolanos**, an experienced IT Professional, SysAdmin, and Home Auto
 
 ### About Me  
 - **Managing:**  Systems, networks, and cybersecurity frameworks.  
-- **Scripting:**  Linux, macOS, and Windows automation for seamless IT operations.  
+- **Scripting:**  Linux, macOS, and Windows automation.  
 - **Exploring:**  Cybersecurity best practices, compliance, threat detection, and self-hosted monitoring solutions.  
 - **Networking:**  WireGuard VPN, IoT security, cloud, and on-prem automation setups.  
 
