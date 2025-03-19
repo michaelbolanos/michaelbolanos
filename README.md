@@ -9,7 +9,7 @@ I'm **Michael Bolanos**, an experienced IT Professional, SysAdmin, and Home Auto
 - **Networking With:** WireGuard VPN, IoT security, cloud, and on-prem automation setups.  
 
 ### Projects & Interests  
-- **Smart Home:** Privacy-first automations with **Home Assistant**.  
+- **Smart Home:** Privacy-first automations with Home Assistant.  
 - **IT & Security Tools:** Developing admin scripts for system management, compliance audits, and security hardening.  
 - **Networking & VPN Security:** WireGuard, zero-trust security models, and self-hosted solutions.  
 - **Threat Monitoring:** SIEM tools, log aggregation, and automated alerts.  
