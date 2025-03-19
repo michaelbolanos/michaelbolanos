@@ -17,7 +17,7 @@ I'm **Michael Bolanos**, an experienced **IT Professional, SysAdmin, and Home Au
 
 ---  
 
-Always learning, always securing, always automating — If you're passionate about **Home Assistant, IT automation, cybersecurity, or monitoring**, let's connect!  
+Always learning, always securing, always automating 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelbolanos/michaelbolanos/output/github-snake-dark.svg" />
