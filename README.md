@@ -3,17 +3,17 @@
 I'm **Michael Bolanos**, an experienced IT Professional, SysAdmin, and Home Automation Enthusiast with a passion for automation, scripting, and cybersecurity. I enjoy working with Linux, Windows, Mac, Home Assistant, Bash, and Python, creating solutions that blend technology, security, and efficiency.  
 
 ### About Me  
-- **Managing:** Systems, networks, and cybersecurity frameworks.  
-- **Scripting:** Linux, macOS, and Windows automation for seamless IT operations.  
-- **Exploring:** Cybersecurity best practices, compliance, threat detection, and self-hosted monitoring solutions.  
-- **Networking With:** WireGuard VPN, IoT security, cloud, and on-prem automation setups.  
+- **Managing:**  Systems, networks, and cybersecurity frameworks.  
+- **Scripting:**  Linux, macOS, and Windows automation for seamless IT operations.  
+- **Exploring:**  Cybersecurity best practices, compliance, threat detection, and self-hosted monitoring solutions.  
+- **Networking:**  WireGuard VPN, IoT security, cloud, and on-prem automation setups.  
 
 ### Projects & Interests  
-- **Smart Home:** Privacy-first automations with Home Assistant.  
-- **IT & Security Tools:** Developing admin scripts for system management, compliance audits, and security hardening.  
-- **Networking & VPN Security:** WireGuard, zero-trust security models, and self-hosted solutions.  
-- **Threat Monitoring:** SIEM tools, log aggregation, and automated alerts.  
-- **AI & Automation:** Finding ways to optimize workflows with scripting and AI-driven threat detection.  
+- **Smart Home:**  Privacy-first automations with Home Assistant.  
+- **IT & Security Tools:**  Developing admin scripts for system management, compliance audits, and security hardening.  
+- **Networking & VPN Security:**  WireGuard, zero-trust security models, and self-hosted solutions.  
+- **Threat Monitoring:**  SIEM tools, log aggregation, and automated alerts.  
+- **AI & Automation:**  Finding ways to optimize workflows with scripting and AI-driven threat detection.  
 
 ---  
 
