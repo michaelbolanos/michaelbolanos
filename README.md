@@ -1,6 +1,6 @@
 ### Welcome to my GitHub  
 
-I'm **Michael Bolanos**, an experienced IT & Security Consultant, System Administrator, and Home Automation enthusiast. I enjoy working with Linux, Windows, Mac, Home Assistant, Bash, and Python.
+I'm **Michael Bolanos**, an experienced IT & Security Consultant, System Administrator, and Home Automation enthusiast. I enjoy working with Linux, Windows, Mac, Home Assistant, Bash, Powershell, and Python.
 
 ### About Me  
 - **Managing:**  Systems, networks, and cybersecurity frameworks.  
