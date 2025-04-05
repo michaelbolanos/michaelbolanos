@@ -17,7 +17,7 @@ I'm **Michael Bolanos**, an experienced IT & Security Consultant, System Adminis
 
 ---  
 
-Always learning, always securing, always automating 
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelbolanos/michaelbolanos/output/github-snake-dark.svg" />
