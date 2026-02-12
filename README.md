@@ -1,6 +1,6 @@
 ### Welcome to my GitHub  
 
-Experienced System Administrator focused on Security and Automation.  Enjoy working with Linux, Windows, Mac, Home Assistant, Bash, Powershell, Python, and Milwaukee tools.  
+Experienced System Administrator focused on Security and Automation.  Enjoy working with Linux, Windows, Mac, Home Assistant, Python, Bash, Powershell, and Milwaukee tools.  
 
 ### About Me  
 - **Managing:**  Systems, networks, and cybersecurity frameworks.  
