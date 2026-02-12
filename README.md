@@ -1,6 +1,6 @@
 ### Welcome to my GitHub  
 
-Experienced in Security, System Administration, and Automation.  Enjoy working with Linux, Windows, Mac, Home Assistant, Bash, Powershell, Python, and Milwaukee tools.  My dog codes with me and we enjoy driving on two or four wheels for inspiration.
+Experienced System Administrator focused on Security and Automation.  Enjoy working with Linux, Windows, Mac, Home Assistant, Bash, Powershell, Python, and Milwaukee tools.  
 
 ### About Me  
 - **Managing:**  Systems, networks, and cybersecurity frameworks.  
