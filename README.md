@@ -1,6 +1,6 @@
 ### Welcome to my GitHub  
 
-I'm **Michael Bolanos**, an experienced IT & Security Consultant, System Administrator, and Home Automation enthusiast. I enjoy working with Linux, Windows, Mac, Home Assistant, Bash, Powershell, and Python.
+I'm an experienced IT Security Consultant, System Administrator, and Home Automation enthusiast. I enjoy working with Linux, Windows, Mac, Home Assistant, Bash, Powershell, Python, and Milwaukee tools.  My dog Crypto codes with me and we enjoy driving on two or four wheels for inspiration.
 
 ### About Me  
 - **Managing:**  Systems, networks, and cybersecurity frameworks.  
@@ -11,7 +11,7 @@ I'm **Michael Bolanos**, an experienced IT & Security Consultant, System Adminis
 ### Projects & Interests  
 - **Smart Home:**  Privacy-first automations with Home Assistant.  
 - **IT & Security Tools:**  Developing admin scripts for system management, compliance audits, and security hardening.  
-- **Networking & VPN Security:**  WireGuard, zero-trust security models, and self-hosted solutions.  
+- **Networking & VPN Security:**  WireGuard, zero-trust security models
 - **Threat Monitoring:**  SIEM tools, log aggregation, and automated alerts.  
 - **AI & Automation:**  Finding ways to optimize workflows with scripting and AI-driven threat detection.  
 
